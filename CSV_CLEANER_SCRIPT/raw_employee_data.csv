@@ -1,0 +1,8 @@
+employee_id,name,age,department,salary,email
+1,Aman,25,IT,50000.0,aman@gmail.com
+2,Riya,28,HR,45000.0,riya@gmail.com
+3,John,,IT,60000.0,john@gmail.com
+4,Meena,30,Finance,,meena@gmail.com
+5,Aman,25,IT,50000.0,aman@gmail.com
+6,Kabir,twenty seven,HR,47000.0,kabir@gmail
+7,Sara,29,Marketing,52000.0,sara@gmail.com
