@@ -1,0 +1,27 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,The Silent Storm,John Carter,Emma Stone,United States,September 9 2019,2019,TV-MA,95 min,Drama,A story of resilience.
+s2,TV Show,Code Masters,Sarah Lee,Ryan Gosling,United States,October 12 2020,2020,TV-14,2 Seasons,Documentary,Exploring top programmers.
+s3,Movie,Love in Paris,Claire Denis,Marion Cotillard,France,June 5 2018,2018,PG-13,110 min,Romance,A romantic journey.
+s4,Movie,The Last Kingdom,David Fincher,Brad Pitt,United Kingdom,March 15 2017,2017,R,130 min,Action,A warrior fights for survival.
+s5,TV Show,Startup India,Raj Mehta,Ayushmann Khurrana,India,January 10 2021,2021,TV-MA,3 Seasons,Drama,Entrepreneurial challenges.
+s6,Movie,Tokyo Nights,Hiro Tanaka,Ken Watanabe,Japan,July 22 2016,2016,PG,100 min,Thriller,A mysterious night unfolds.
+s7,Movie,The Hacker Files,,Chris Evans,United States,August 8 2022,2022,TV-MA,105 min,Crime,Digital crime investigation.
+s8,TV Show,World of Wildlife,Nina Brown,,Canada,May 3 2019,2019,TV-G,1 Season,Documentary,Nature exploration.
+s9,Movie,Bollywood Dreams,Karan Johar,Alia Bhatt,India,April 11 2020,2020,PG-13,140 min,Musical,Aspiring singer's journey.
+s10,Movie,Desert Storm,Michael Bay,Tom Hardy,United States,December 1 2015,2015,R,115 min,Action,Military action drama.
+s11,TV Show,Space Chronicles,Elena Rossi,Pedro Pascal,Italy,November 18 2021,2021,TV-14,2 Seasons,Sci-Fi,Life beyond Earth.
+s12,Movie,Hidden Truths,Anurag Kashyap,Nawazuddin Siddiqui,India,February 2 2019,2019,TV-MA,125 min,Crime,Dark investigative drama.
+s13,Movie,Ocean Deep,James Cameron,Kate Winslet,United States,June 21 2014,2014,PG-13,150 min,Adventure,Underwater exploration.
+s14,TV Show,London Files,Peter Morgan,Idris Elba,United Kingdom,September 30 2022,2022,TV-MA,1 Season,Crime,City crime stories.
+s15,Movie,The Chef's Table,Laura Green,Gordon Ramsay,United States,May 6 2018,2018,TV-14,90 min,Documentary,Culinary excellence.
+s16,Movie,Midnight Horror,Sam Raimi,,United States,October 31 2016,2016,R,98 min,Horror,A haunted town mystery.
+s17,TV Show,AI Revolution,Mark Johnson,Andrew Ng,United States,August 15 2023,2023,TV-14,1 Season,Documentary,Future of artificial intelligence.
+s18,Movie,The Warrior Queen,Rajkumar Hirani,Deepika Padukone,India,January 26 2017,2017,PG-13,135 min,Historical,A queen's legacy.
+s19,Movie,Fast Wheels,Justin Lin,Vin Diesel,United States,July 4 2013,2013,PG-13,120 min,Action,High speed racing.
+s20,TV Show,Cooking with Love,Emma White,,Australia,March 8 2020,2020,TV-G,2 Seasons,Reality,Family cooking competition.
+s21,Movie,The Mind Game,Christopher Nolan,Leonardo DiCaprio,United States,July 16 2010,2010,PG-13,148 min,Sci-Fi,Complex dream thriller.
+s22,Movie,Mystic River,Clint Eastwood,Sean Penn,United States,October 15 2003,2003,R,138 min,Drama,Tragic mystery.
+s23,TV Show,Data Detectives,Anjali Rao,,India,June 12 2022,2022,TV-14,1 Season,Crime,Solving cyber crimes.
+s24,Movie,The Arctic Call,David Attenborough,,United Kingdom,April 22 2021,2021,TV-G,85 min,Documentary,Climate awareness.
+s25,Movie,City Lights Reborn,Greta Gerwig,Saoirse Ronan,United States,December 25 2023,2023,PG-13,112 min,Drama,Modern city life.
+

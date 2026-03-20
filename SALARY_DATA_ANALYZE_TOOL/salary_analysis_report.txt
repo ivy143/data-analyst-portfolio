@@ -1,0 +1,28 @@
+SALARY DATA ANALYSIS REPORT
+==================================================
+Generated On: 2026-03-02 13:11:03.301401
+
+Overall Statistics:
+------------------------------
+Total Salary: 735000
+Average Salary: 73500.00
+Median Salary: 72500.0
+Standard Deviation: 6553.20
+
+Highest Paid Employee:
+William Thomas - 85000
+
+Lowest Paid Employee:
+Robert Wilson - 65000
+
+Department Wise Average Salary:
+------------------------------
+Engineering: 80000.00
+Marketing: 68666.67
+Sales: 69666.67
+
+Department Salary Contribution (%):
+------------------------------
+Engineering: 43.54%
+Marketing: 28.03%
+Sales: 28.44%

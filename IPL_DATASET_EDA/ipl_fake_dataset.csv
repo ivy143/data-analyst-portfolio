@@ -1,0 +1,26 @@
+match_id,season,team1,team2,winner,venue,player_of_match,total_runs,wickets,match_date
+1,2023,MI,CSK,CSK,Mumbai,Ravindra Jadeja,180,6,2023-04-01
+2,2023,RCB,KKR,RCB,Bangalore,Virat Kohli,200,5,2023-04-02
+3,2023,DC,SRH,SRH,Delhi,Bhuvneshwar Kumar,150,8,2023-04-03
+4,2023,GT,RR,GT,Ahmedabad,Shubman Gill,210,4,2023-04-04
+5,2023,PBKS,LSG,LSG,Mohali,KL Rahul,175,7,2023-04-05
+6,2023,CSK,RCB,CSK,Chennai,MS Dhoni,190,6,2023-04-06
+7,2023,MI,GT,MI,Mumbai,Suryakumar Yadav,205,5,2023-04-07
+8,2023,KKR,RR,RR,Kolkata,Jos Buttler,198,6,2023-04-08
+9,2023,SRH,PBKS,PBKS,Hyderabad,Shikhar Dhawan,160,9,2023-04-09
+10,2023,LSG,DC,DC,Lucknow,David Warner,170,8,2023-04-10
+11,2024,MI,CSK,MI,Mumbai,Rohit Sharma,220,3,2024-04-01
+12,2024,RCB,RR,RR,Bangalore,Sanju Samson,185,7,2024-04-02
+13,2024,GT,SRH,SRH,Ahmedabad,Travis Head,195,6,2024-04-03
+14,2024,PBKS,DC,DC,Mohali,Rishabh Pant,165,8,2024-04-04
+15,2024,LSG,KKR,KKR,Lucknow,Andre Russell,210,4,2024-04-05
+16,2024,CSK,GT,GT,Chennai,Rashid Khan,175,7,2024-04-06
+17,2024,RR,MI,RR,Jaipur,Yashasvi Jaiswal,200,5,2024-04-07
+18,2024,SRH,RCB,RCB,Hyderabad,Faf du Plessis,190,6,2024-04-08
+19,2024,DC,CSK,CSK,Delhi,Devon Conway,180,6,2024-04-09
+20,2024,KKR,PBKS,KKR,Kolkata,Nitish Rana,170,8,2024-04-10
+21,2024,MI,LSG,LSG,Mumbai,Marcus Stoinis,175,7,2024-04-11
+22,2024,RR,SRH,SRH,Jaipur,Pat Cummins,205,5,2024-04-12
+23,2024,RCB,GT,GT,Bangalore,Hardik Pandya,210,4,2024-04-13
+24,2024,CSK,PBKS,CSK,Chennai,Deepak Chahar,160,9,2024-04-14
+25,2024,DC,MI,MI,Delhi,Jasprit Bumrah,190,6,2024-04-15
