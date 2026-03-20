@@ -1,0 +1,14 @@
+EMPLOYEE SALARY REPORT
+========================================
+Report Generated On: 2026-03-02 12:44:05.712347
+
+Total Salary Expense: 759000
+Average Salary: 75900.00
+Highest Salary: 88000
+Lowest Salary: 65000
+
+Department Wise Salary Distribution:
+----------------------------------------
+Finance: 230000
+HR: 199000
+IT: 330000
